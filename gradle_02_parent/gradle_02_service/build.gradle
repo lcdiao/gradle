@@ -1,0 +1,4 @@
+dependencies {
+    //可以使用dao模块的代码了
+    compile project(":gradle_02_dao")
+}
